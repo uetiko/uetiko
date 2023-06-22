@@ -29,15 +29,30 @@ At [enova Mexico](https://packagist.org/packages/enova/) I was not only a develo
 
 ## code activity
 
-All the time I have coded with Vass company in the telefonica Chile project.
-[![wakatime](https://wakatime.com/badge/user/8a272fcb-113b-4d48-b227-e717ab94571a/project/467ac21a-4804-43d5-a29f-9fa7ce129efe.svg)](https://wakatime.com/badge/user/8a272fcb-113b-4d48-b227-e717ab94571a/project/467ac21a-4804-43d5-a29f-9fa7ce129efe)
-My last year of commits for all my projects
-[![Coding activity](https://wakatime.com/share/@uetiko/72f887e8-d80d-4022-91c6-44ddcba7c8f5.png "Coding activity")](https://wakatime.com/share/@uetiko/72f887e8-d80d-4022-91c6-44ddcba7c8f5.png "Coding activity")
+<p align="center">
+  All the time I have coded with Vass company in the telefonica Chile project. 
+  <br>
+  <a href="https://wakatime.com/badge/user/8a272fcb-113b-4d48-b227-e717ab94571a/project/467ac21a-4804-43d5-a29f-9fa7ce129efe" target="_blank">
+    <img src="https://wakatime.com/badge/user/8a272fcb-113b-4d48-b227-e717ab94571a/project/467ac21a-4804-43d5-a29f-9fa7ce129efe.svg" alt="wakatime">
+  </a>
+  <br><br>
+  My last year of commits for all my projects
+  <br>
+  <a href="https://wakatime.com/@uetiko" target="_blank">
+    <img src="https://wakatime.com/share/@uetiko/72f887e8-d80d-4022-91c6-44ddcba7c8f5.png" alt="Coding activity" width="600px">
+  </a>
+  <a href="https://wakatime.com/@uetiko" target="_blank">
+    <img src="https://wakatime.com/share/@uetiko/49b46865-8eee-4eb2-bb69-5702965d0d2e.svg" alt="Languages bar" width="600px">
+  </a>
+</p>
 
-[![Languages bar](https://wakatime.com/share/@uetiko/49b46865-8eee-4eb2-bb69-5702965d0d2e.svg "Languages bar")](https://wakatime.com/share/@uetiko "Languages bar")
 
-![uetiko](https://github-readme-stats.vercel.app/api/top-langs?username=uetiko&show_icons=true&locale=en&layout=compact)
-![uetiko](https://github-readme-stats.vercel.app/api?username=uetiko&show_icons=true&locale=en)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uetiko&show_icons=true&locale=en&layout=compact" alt="uetiko">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=uetiko&show_icons=true&locale=en" alt="uetiko">
+</p>
+
 
 ### Support:
 [![uetiko](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/uetiko)
