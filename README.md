@@ -7,19 +7,19 @@ And I also write in a personal blog.
 
  ## Experience
  
-Senior software engineer at [Vass Company](https://www.linkedin.com/company/vass-latam/) developing in backend on the magento 2.4 platform.
-Senior software engineer at [PagoFácil.net](https://www.linkedin.com/company/pagofacil/) developing a [payment method for the magento 2.3 gateway for card not present](https://packagist.org/packages/pagofacilnet/module-payment)
-At [enova Mexico](https://packagist.org/packages/enova/) I was not only a developer, but also a junior project manager, with which I was able to introduce an agile culture to the team between the principles of XP and scrum
+- Senior software engineer at [Vass Company](https://www.linkedin.com/company/vass-latam/) developing in backend on the magento 2.4 platform.
+- Senior software engineer at [PagoFácil.net](https://www.linkedin.com/company/pagofacil/) developing a [payment method for the magento 2.3 gateway for card not present](https://packagist.org/packages/pagofacilnet/module-payment)
+- At [enova Mexico](https://packagist.org/packages/enova/) I was not only a developer, but also a junior project manager, with which I was able to introduce an agile culture to the team between the principles of XP and scrum
 
 
-**Soft Skills:**
+### **Soft Skills:**
 - Technical leadership
 - Team collaboration
 - Effective communication
 - Conflict resolution
 - Attention to detail
 
-**Hard Skills:**
+### **Hard Skills:**
 - Object-oriented programming (PHP, Java, JavaScript, Perl, Python)
 - Docker
 - Development of RESTful and SOAP APIs
