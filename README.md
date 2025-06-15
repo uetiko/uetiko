@@ -1,5 +1,6 @@
 # Welcome to my GitHub profile
 
+
 Hi, I'm **Angel** — a software engineer with over fifteen years of experience in e‑commerce, banking and electronic invoicing projects in Mexico. I lead technical teams, design software architecture and enjoy writing about development on my personal blog. Passionate about Linux and open source, I love working with Python and exploring new technologies.
 Currently I focus on cloud architecture and technical leadership, helping teams build scalable services on AWS and .NET Core.
 
@@ -30,12 +31,14 @@ Currently I focus on cloud architecture and technical leadership, helping teams 
 - Linux as daily development environment
 - RESTful and SOAP API development
 - Cloud administration: AWS (Lambdas, DocumentDB) and Azure
+
 - Software engineering best practices
 
 ## Coding activity
 
 <p align="center">
   Many of my earlier commits were made on the Telefónica Chile project at Vass Company.
+
   <br>
   <a href="https://wakatime.com/badge/user/8a272fcb-113b-4d48-b227-e717ab94571a/project/467ac21a-4804-43d5-a29f-9fa7ce129efe" target="_blank">
     <img src="https://wakatime.com/badge/user/8a272fcb-113b-4d48-b227-e717ab94571a/project/467ac21a-4804-43d5-a29f-9fa7ce129efe.svg" alt="wakatime">
