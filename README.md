@@ -1,44 +1,52 @@
 # Welcome to my GitHub profile
 
+Hi, I'm **Angel**, a software architect and technical leader with more than fifteen years delivering high-availability platforms for e-commerce, banking, and electronic invoicing in Mexico. I translate complex requirements into maintainable architectures and guide teams toward clean, scalable implementations.
 
-Hi, I'm **Angel** — a software engineer with over fifteen years of experience in e‑commerce, banking and electronic invoicing projects in Mexico. I lead technical teams, design software architecture and enjoy writing about development on my personal blog. Passionate about Linux and open source, I love working with Python and exploring new technologies.
-Currently I focus on cloud architecture and technical leadership, helping teams build scalable services on AWS and .NET Core.
+## Professional snapshot
+- **Current role:** Technical Lead at [Nyx](https://nyx.mx) driving AWS architecture and automation.
+- **Focus areas:** Technical leadership, clean architecture, coaching multidisciplinary teams.
+- **Availability:** Open to conversations about architecture, technical leadership, or senior engineering roles.
+- **Location:** Mexico City (remote or hybrid).
+- **Writing:** I share lessons on clean code, leadership, and DevOps culture on my [blog](https://uetiko.com/).
 
-## Professional experience
+## Technical strengths
+- **Object-oriented languages:** PHP, Java, JavaScript, Python, C# (.NET Core).
+- **Frameworks and platforms:** Magento 2.x, .NET Core, Node.js.
+- **Cloud and DevOps:** AWS (Lambdas, DocumentDB, IAM, CloudWatch), Azure, infrastructure as code, Docker containers.
+- **APIs:** Design and consumption of RESTful and SOAP services, anchored in industry-standard versioning and observability.
+- **Operating systems:** Linux as the primary environment, automated with shell scripting.
+- **Architecture and quality:** Clean Architecture, Domain-Driven Design, SOLID, automated testing, and monitoring.
 
-- **Technical Lead** at [Nyx](https://nyx.mx) (2023–present)
-  - Leading architecture efforts and AWS infrastructure automation.
-  - Mentoring the development team.
-- **Senior Software Engineer** at [Vass Company](https://www.linkedin.com/company/vass-latam/)
-  - Backend development on the Telefónica Chile project using Magento 2.4.
-- **Senior Software Engineer** at [PagoFácil.net](https://www.linkedin.com/company/pagofacil/)
-  - Created and maintained the [card-not-present payment gateway for Magento 2.3](https://packagist.org/packages/pagofacilnet/module-payment).
-- **Developer & Junior Project Manager** at [enova Mexico](https://packagist.org/packages/enova/)
-  - Introduced agile practices, combining XP with Scrum.
+## Soft skills that drive delivery
+- Negotiation and management of complex stakeholders.
+- Active listening and business-oriented communication.
+- Facilitation of agile ceremonies and team coaching.
+- Change management and conflict resolution.
+- Mentoring engineers transitioning into leadership roles.
 
-## Skills
+## Selected experience
+- **Technical Lead** · [Nyx](https://nyx.mx) · 2023–present
+  Leading architecture and AWS strategy, coordinating infrastructure automation, and guiding adoption of proven engineering standards.
+- **Senior Software Engineer** · [Vass Company](https://www.linkedin.com/company/vass-latam/)  
+  Backend development for Telefónica Chile on Magento 2.4, improving performance and payment flows.
+- **Senior Software Engineer** · [PagoFácil.net](https://www.linkedin.com/company/pagofacil/)  
+  Created and maintained the [card-not-present payment gateway for Magento 2.3](https://packagist.org/packages/pagofacilnet/module-payment).
+- **Developer & Junior Project Manager** · [enova Mexico](https://packagist.org/packages/enova/)  
+  Introduced agile practices blending XP and Scrum to improve delivery cadence and quality.
 
-### Soft skills
-- Technical leadership
-- Team collaboration
-- Effective communication
-- Conflict resolution
-- Attention to detail
+## What I am bullying now
+- **Stoyco:** leading the AWS cloud architecture and acting as the technical reference for the engineering squad.
+  - Shaping scalable services that keep latency low while the product grows.
+  - Owning the data backbone implemented in DocumentDB and its integration patterns.
+  - Facilitating decision-making rituals so the team can ship confidently.
+- Mentoring developers who are stepping into leadership responsibilities.
 
-### Technical skills
-- Object-oriented programming: PHP, Java, JavaScript, Perl, Python, C# (.NET Core)
-- Docker & containerized environments
-- Linux as daily development environment
-- RESTful and SOAP API development
-- Cloud administration: AWS (Lambdas, DocumentDB) and Azure
-
-- Software engineering best practices
+## Let's collaborate
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/uetiko/).
 
 ## Coding activity
-
 <p align="center">
   Many of my earlier commits were made on the Telefónica Chile project at Vass Company.
-
   <br>
   <a href="https://wakatime.com/badge/user/8a272fcb-113b-4d48-b227-e717ab94571a/project/467ac21a-4804-43d5-a29f-9fa7ce129efe" target="_blank">
     <img src="https://wakatime.com/badge/user/8a272fcb-113b-4d48-b227-e717ab94571a/project/467ac21a-4804-43d5-a29f-9fa7ce129efe.svg" alt="wakatime">
